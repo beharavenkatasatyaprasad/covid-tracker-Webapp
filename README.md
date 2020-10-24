@@ -4,7 +4,7 @@ Thanks for checking out this repo [covid-tracker-Webapp](https://github.com/beha
 
 ## The Webapp
 
-This app is to integrate myself with the [Covid API](https://corona.lmao.ninja/docs/) to pull country data and display it like in the designs.
+This app is to integrate myself with the [Covid API](https://corona.lmao.ninja/docs/) to pull country data and display it.
 
 I have used any JavaScript on the front-end to develop this particular Webapp.
 
