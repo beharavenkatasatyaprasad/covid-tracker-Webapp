@@ -2,6 +2,7 @@
 
 Thanks for checking out this repo [covid-tracker-Webapp](https://github.com/beharavenkatasatyaprasad/covid-tracker-Webapp).
 
+Click [here](https://covid19-tracker-webappv1.netlify.app/) to preview the app.
 ## The Webapp
 
 This app is to integrate myself with the [Covid API](https://corona.lmao.ninja/docs/) to pull country data and display it.
