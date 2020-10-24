@@ -21,6 +21,6 @@ Want some support on making such Webapps? feel free to [Ping me](https://wa.me/9
 
 <div align="center">
 
-### Show some ❤️ by starring some the repository!
+### Show some ❤️ by starring the repository!
 
 </div>
