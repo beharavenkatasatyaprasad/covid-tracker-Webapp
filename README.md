@@ -20,6 +20,6 @@ Want some support on the making such Webapps? feel free to [Ping me](https://wa.
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repository!
+### Show some ❤️ by starring some the repository!
 
 </div>
