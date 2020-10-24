@@ -235,7 +235,8 @@ body.dark .btn-toggle .far {
 
 @media(max-width:600px){
 	.card {
-		margin: 0px;
+		margin: 0px; 
+		margin-bottom: 40px !important;
 	}
 	.container {
 		justify-content: center;
