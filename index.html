@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Covid Tracker</title>
+    <link rel="icon" href="virus.png" />
+		<link
+			rel="stylesheet"
+			href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/css/all.min.css"
+		/>
+		<link rel="stylesheet" href="style.css" />
+	</head>
+	<body>
+        <button onclick="topFunction()" id="scrollBtn" title="Go to top">Scroll Up</button>
+		<header>
+			<div class="container">
+				<h1>
+          Covid Tracker
+        </h1>
+				<button class="btn-toggle" id="toggle">
+					<i class="far fa-moon"></i>
+					<i class="fas fa-moon"></i>
+					Dark Mode
+				</button>
+			</div>
+		</header>
+
+		<section class="sec-container">
+			<div class="container">
+				<input
+					id="search"
+					class="search"
+					type="text"
+					placeholder="Search for a country..."
+				/>
+
+				<div class="dropdown" id="filter">
+					Filter by Continent
+					<i class="fas fa-chevron-down"></i>
+					<ul>
+            <li>All</li>
+            <li>Asia</li>
+            <li>Africa</li>
+            <li>Australia/Oceania</li>
+            <li>North America</li>
+            <li>South America</li>
+            <li>Europe</li>
+					</ul>
+				</div>
+			</div>
+		</section>
+
+		<div class="modal" id="modal">
+			<div class="container">
+				<button class="btn-close" id="close">
+					<i class="fas fa-times"></i>
+				</button>
+				<img src="" alt="" />
+				<div class="modal-body"></div>
+			</div>
+		</div>
+
+		<section>
+			<div class="container countries" id="countries">
+				<h2>Loading...</h2>
+			</div>
+		</section>
+        <footer>
+            <div class="foot-container">
+                All Copyrights &copy; reserved to <a href="https://www.linkedin.com/in/satya-prasad-behara-51ab861a2/">Satya Prasad Behara</a>
+            </div>
+        </footer>
+		<script src="script.js"></script>
+	</body>
+</html>
