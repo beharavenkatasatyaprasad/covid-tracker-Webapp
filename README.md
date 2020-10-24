@@ -16,7 +16,7 @@ Users are able to:
 - Click on a country to see more detailed information on a separate page
 - Toggle the color scheme between light and dark mode
 
-Want some support on the making such Webapps? feel free to [Ping me](https://wa.me/917093657303?text=Hello%20Satya) and ask questions.
+Want some support on making such Webapps? feel free to [Ping me](https://wa.me/917093657303?text=Hello%20Satya) and ask questions.
 
 <div align="center">
 
