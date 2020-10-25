@@ -151,9 +151,8 @@ body.dark .btn-toggle .far {
 }
 
 .card p:last-of-type {
-	text-align: right;
+	text-align: center;
 	padding: 0px;
-	margin-right: 10px !important;
 	margin: 0px;
 	opacity: 0.5;
 
