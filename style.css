@@ -259,6 +259,11 @@ body.dark .btn-toggle .far {
 	h1{
 		font-size:0.8em;
 	}
+	.search {
+  		  margin: auto;
+    		  margin-bottom: auto;
+    		  margin-bottom: 10px !important;
+	}
 	.dropdown{
 		margin: auto;
 		margin-bottom: 10px !important;
