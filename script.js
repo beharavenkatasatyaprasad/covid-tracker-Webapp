@@ -49,6 +49,9 @@ function displayCountries(countries) {
                 <strong>Continent:</strong>
                     ${country.continent}
                 </p>
+                <p>
+                    <small>Tap for more info..</small>
+                </p>
             </div>
         `;
 
