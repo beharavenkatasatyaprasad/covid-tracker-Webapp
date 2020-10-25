@@ -246,7 +246,9 @@ body.dark .btn-toggle .far {
 		margin: 0px; 
 		margin-bottom: 40px !important;
 	}
-
+	.container{
+		padding:20px;
+	}
 	.search{
 		margin: 10px;
 		margin-top: 0px !important;
