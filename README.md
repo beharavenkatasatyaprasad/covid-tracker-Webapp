@@ -1,6 +1,6 @@
 ## Welcome! 👋
 
-Thanks for checking out this repo [covid-tracker-Webapp](https://github.com/beharavenkatasatyaprasad/covid-tracker-Webapp).
+Thanks for checking out this repo [universal-covid-tracker-Webapp](https://github.com/beharavenkatasatyaprasad/universal-covid-tracker-Webapp).
 
 Click [here](https://covid19-tracker-webappv1.netlify.app/) to preview the app.
 ## The Webapp
