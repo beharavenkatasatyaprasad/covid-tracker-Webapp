@@ -150,6 +150,15 @@ body.dark .btn-toggle .far {
 	margin-top: 0;
 }
 
+.card p:last-of-type {
+	text-align: right;
+	padding: 0px;
+	margin-right: 10px !important;
+	margin: 0px;
+	opacity: 0.5;
+
+}
+
 .container.countries {
 	margin-top: -40px;
 	justify-content: center;
