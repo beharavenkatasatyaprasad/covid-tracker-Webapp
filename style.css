@@ -259,4 +259,8 @@ body.dark .btn-toggle .far {
 	h1{
 		font-size:0.8em;
 	}
+	.dropdown{
+		margin: auto;
+		margin-bottom: 10px !important;
+	}
 }
