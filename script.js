@@ -73,18 +73,6 @@ function showCountryDetails(country) {
 	modalBody.innerHTML = `
         <h2>${country.country}</h2>
         <p>
-            <strong>Population:</strong>
-            ${country.population}
-        </p>
-        <p>
-            <strong>Total Cases Registered:</strong>
-            ${country.cases}
-        </p>
-        <p>
-             <strong>Active Cases:</strong>
-             ${country.active}
-        </p>
-        <p>
             <strong>Today Cases:</strong>
             ${country.todayCases}
         </p>
